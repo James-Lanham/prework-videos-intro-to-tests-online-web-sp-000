@@ -1,4 +1,4 @@
 def ounces_to_grams(ounces)
   grams_per_ounce = 28.395
-  ounces.to.f *
+  ounces.to.f * grams_per_ounce
 end
